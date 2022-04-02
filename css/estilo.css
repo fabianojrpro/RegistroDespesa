@@ -1,0 +1,14 @@
+body {
+    background-image: url(../img/bg2black.jpg);
+    background-position: center;
+}
+h1 {
+    background: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+nav li {
+    font-size: 1.3em;
+}
